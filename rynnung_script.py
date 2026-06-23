@@ -100,5 +100,5 @@ def main():
     input("\nНажмите Enter для выхода...")
 
 
-if main == "__main__":
+if __name__ == "__main__":
     main()
